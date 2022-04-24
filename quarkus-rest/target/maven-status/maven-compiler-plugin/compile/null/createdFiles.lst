@@ -1,0 +1,12 @@
+com\quarkus\config\SwaggerConfig.class
+com\quarkus\exceptionhandler\ExceptionHandler.class
+com\quarkus\controller\UserController.class
+com\quarkus\service\UserService.class
+com\quarkus\controller\UserController$UserDto.class
+com\quarkus\exception\UserNotFoundException.class
+META-INF\panache-archive.marker
+com\quarkus\entity\User.class
+com\quarkus\exceptionhandler\ExceptionHandler$ErrorResponseBody.class
+com\quarkus\repository\UserRepository.class
+com\quarkus\service\impl\HttpService.class
+com\quarkus\service\impl\DefaultUserService.class
